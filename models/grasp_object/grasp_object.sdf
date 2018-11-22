@@ -38,7 +38,7 @@
                     </cylinder>
                 </geometry>
                 <material>
-                    <script>Gazebo/Purple</script>
+                    <script>Gazebo/black</script>
                 </material>
             </visual>
         </link>
